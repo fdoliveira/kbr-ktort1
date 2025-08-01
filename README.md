@@ -19,7 +19,7 @@ Branch main será atualizada conforme o andamento do curso.
 [Ktor](https://ktor.io/) é um framework para construir aplicações web e APIs em Kotlin de forma simples e rápida.
 
 ---
-s
+
 ## 🗂️ Índice
 1. [Pré-requisitos](#pré-requisitos)
 2. [Criar e rodar o projeto inicial](#criar-e-rodar-o-projeto-inicial)
